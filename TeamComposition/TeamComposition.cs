@@ -32,7 +32,7 @@ namespace TeamComposition
         }
         void Start()
         {
-            CustomCard.BuildCard<MyCardName>();
+            CustomCard.BuildCard<AdamsFirstCard>();
             instance = this;
         
         }
